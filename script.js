@@ -1,3 +1,4 @@
+//Função do Botão Leia Mais
 function leiamais(){
     var pontos = document.getElementById("pontos");
     var maistexto = document.getElementById("mais");
